@@ -1,0 +1,6 @@
+1. Run Project1 on wisual basic.
+2. Compile/export project, and add on executable game the next dll
+		- MCI32.OCX
+		- VSFLEX3.OCX
+		- you will find this dll on C:\WINDOWS\system32
+3. Have fun with this code
